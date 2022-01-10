@@ -12,7 +12,7 @@ public class Main : MonoBehaviour
     {        
         toggle.isOn = false;
         //toggle.toogleEvent.AddListener((enabled) => Debug.Log("Main : "+enabled));        
-    }    
+    }
 
     public void OnClickBtn(bool enabled)
     {
